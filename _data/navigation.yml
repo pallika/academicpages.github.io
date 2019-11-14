@@ -6,9 +6,6 @@ main:
  - title: "Talks"
     url: /talks/  
     
- - title: "Bio"
-    url: /bio/   
-    
   - title: "CV"
     url: /cv/
     
