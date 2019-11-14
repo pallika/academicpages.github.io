@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am part of the Machine Learning Research Group at Oracle Labs. We work closely with several different product groups across Oracle on real world applications of Machine Learning. These application domains include Sales, Marketing, HR, Retail, Finance, Healthcare, and Social Media Analytics. My research interests lie at the intersection of Natural Language Processing and Machine Learning. I am interested in information extraction, semi-supervised and transfer learning, fairness and privacy in machine learning, and active information acquisition.
+I am a consulting member of technical stff within the Machine Learning Research Group at Oracle Labs. We work closely with several different product groups across Oracle on real world applications of Machine Learning. These application domains include Sales, Marketing, HR, Retail, Finance, Healthcare, and Social Media Analytics. My research interests lie at the intersection of Natural Language Processing and Machine Learning. I am interested in information extraction, semi-supervised and transfer learning, fairness and privacy in machine learning, and active information acquisition.
 
 I completed my PhD under prof. Andrew McCallum at the School of Computer Science at UMass, Amherst. I received my M.S. in Computer Science from New York University, and a Bachelor of Engineering from Mumbai University in India.
 
