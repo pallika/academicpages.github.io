@@ -10,7 +10,10 @@ locale                   : "en-US"
 title                    : "Pallika Kanani"
 title_separator          : "-"
 name                     : &name "Pallika Kanani"
-description              : &description "personal description"
+description              : &description "I lead the Data Science team within the Machine Learning Research Group at Oracle Labs . My team works closely with several different product groups across Oracle on real world applications of Machine Learning. These application domains include Sales, Marketing, HR, Retail, Finance, Healthcare, and Social Media Analytics. My research interests lie at the intersection of Natural Language Processing and Machine Learning. I am interested in information extraction, semi-supervised and transfer learning, model interpretability, and active information acquisition.
+I completed my PhD from the Information Extraction and Synthesis Laboratory (IESL), which is part of the Center for Intelligent Information Retrieval (CIIR) in the School of Computer Science at UMass, Amherst . My advisor is Prof. Andrew McCallum. I received my M.S. in Computer Science from New York University , and a Bachelor of Engineering from Mumbai University in India.
+
+Along the way, I have interned at IBM T. J. Watson Research Center (including the Watson Jeopardy! challenge); worked on Bing at Microsoft Research; played with algorithmic trading at Deutche Bank; analyzed babies' growth in a psychology lab; tutored students for GRE; and worked in the family business, planning IT infrastructure and developing HR policies!"
 url                      : https://pallika.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
