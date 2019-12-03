@@ -117,4 +117,4 @@ author_profile: true
          </tr> 
  </table>
 
-{% include base_path %}
+
