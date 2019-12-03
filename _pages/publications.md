@@ -9,13 +9,13 @@ author_profile: true
 	
 	<tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality,  &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf">  pdf </a>  
+           Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf">  pdf </a>  
           </p></td>
         </tr> 
 	 
 	 <tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Tristan, J.-B., Panda, S., Mahmoudian, H., Kanani, P., Wick, M., “Using Bayes Factors to Control for Fairness A Case Study on Learning to Rank”, NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness and Privacy  &nbsp <a href="https://pallika.github.io/files/Fairness_ranking_control.pdf">  pdf </a>    
+           Tristan, J.-B., Panda, S., Mahmoudian, H., Kanani, P., Wick, M., “Using Bayes Factors to Control for Fairness A Case Study on Learning to Rank”, NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness and Privacy  &nbsp; <a href="https://pallika.github.io/files/Fairness_ranking_control.pdf">  pdf </a>    
 		  </p></td>
          </tr> 
 	 
@@ -27,31 +27,31 @@ author_profile: true
 	 
 	 <tr>
           <td class="bodyText" colspan="2"><p class="style1">
-          Kanani, P., Wick, M., Pocock, A. “Attribute Extraction from Noisy Text Using Character-based Sequence Tagging Models”, NIPS Workshop on Machine Learning for e-Commerce 2016 &nbsp <a href="files/neurips16_kanani.pdf">  pdf </a> &nbsp BibTex   
+          Kanani, P., Wick, M., Pocock, A. “Attribute Extraction from Noisy Text Using Character-based Sequence Tagging Models”, NIPS Workshop on Machine Learning for e-Commerce 2016 &nbsp; <a href="https://pallika.github.io/files/neurips16_kanani.pdf">  pdf </a> 
 		  </p></td>
          </tr> 
 	
 	<tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Kanani, P. "Resource-bounded Information Acquisition and Learning", PhD Thesis 2012, University of Massachusetts Amherst &nbsp <a href="publications/FinalThesis.pdf">  pdf </a> &nbsp BibTex   
+           Kanani, P. "Resource-bounded Information Acquisition and Learning", PhD Thesis 2012, University of Massachusetts Amherst &nbsp; <a href="https://pallika.github.io/files/FinalThesis.pdf">  pdf </a>   
 		  </p></td>
          </tr> 
 		
 	<tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Kanani, P. and McCallum, A. "Selecting Actions for Resource-bounded Information Extraction using Reinforcement Learning", In Proceedings WSDM 2012, Seattle, WA.  &nbsp <a href="files/wsdm332-kanani.pdf">  pdf </a> &nbsp BibTex   
+           Kanani, P. and McCallum, A. "Selecting Actions for Resource-bounded Information Extraction using Reinforcement Learning", In Proceedings WSDM 2012, Seattle, WA.  &nbsp; <a href="https://pallika.github.io/files/wsdm332-kanani.pdf">  pdf </a>   
 		  </p></td>
          </tr> 
 		 
 		 <tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Kanani, P. and McCallum, A. "Learning to Select Actions for Resource-bounded Information Extraction". UMass TechReport UM-CS-2011-042, 2011. &nbsp <a href="files/Kanani2011TechResport.pdf">  pdf </a> &nbsp BibTex  
+           Kanani, P. and McCallum, A. "Learning to Select Actions for Resource-bounded Information Extraction". UMass TechReport UM-CS-2011-042, 2011. &nbsp; <a href="https://pallika.github.io/files/Kanani2011TechResport.pdf">  pdf </a>
 		  </p></td>
          </tr> 
 		
 		<tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Svore, K., Kanani, P., and Khan, N., "How good is a span of terms? Exploiting proximity to improve web retrieval", Proceedings of the 33rd ACM SIGIR'10, pp. 154-161. &nbsp <a href="files/fp728-svore.pdf">  pdf </a> &nbsp <a href="files/sigir2010.bib"> BibTex </a>  
+           Svore, K., Kanani, P., and Khan, N., "How good is a span of terms? Exploiting proximity to improve web retrieval", Proceedings of the 33rd ACM SIGIR'10, pp. 154-161. &nbsp; <a href="https://pallika.github.io/files/fp728-svore.pdf">  pdf </a> &nbsp; <a href="files/sigir2010.bib"> BibTex </a>  
 		  </p></td>
          </tr> 
 		
