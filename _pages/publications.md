@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<table>
+<table border="0">
 	
 	<tr>
           <td class="bodyText" colspan="2"><p class="style1">
