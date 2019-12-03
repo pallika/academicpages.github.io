@@ -8,8 +8,9 @@ author_profile: true
 <table style="border-collapse: collapse; border: none">
 	
 	<tr style="border:none">
-          <td class="bodyText" colspan="2" style="border:none">
-           Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf">  pdf </a>  
+          <td class="bodyText" colspan="2" style="border:none"> <p>
+           Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf">  pdf </a> 
+	   </p>
         </td>
         </tr> 
 	 
