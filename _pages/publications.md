@@ -7,13 +7,13 @@ author_profile: true
 
 <table border="0">
 	
-	<tr>
+	<tr style="border-collapse: collapse; border: none;">
           <td class="bodyText" colspan="2"><p class="style1">
            Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf">  pdf </a>  
           </p></td>
         </tr> 
 	 
-	 <tr>
+	 <tr style="border-collapse: collapse; border: none;">
           <td class="bodyText" colspan="2"><p class="style1">
            Tristan, J.-B., Panda, S., Mahmoudian, H., Kanani, P., Wick, M., “Using Bayes Factors to Control for Fairness A Case Study on Learning to Rank”, NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness and Privacy  &nbsp; <a href="https://pallika.github.io/files/Fairness_ranking_control.pdf">  pdf </a>    
 		  </p></td>
