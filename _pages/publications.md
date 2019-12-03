@@ -115,14 +115,6 @@ author_profile: true
            Young, J.W., Biu, O., Pethkongkathon, J., Kanani, P., & Adolph, K.E., "Continuity and discontinuity in motor skill acquisition". International Society for Developmental Psychobiology, Orlando, FL, 2002
 		  </p></td>
          </tr> 
-         </table>
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+ </table>
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
