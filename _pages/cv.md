@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-Here's my <a href="files/Pallika_resume_November2019.pdf"> CV </a> 
+Here's my <a href="https://pallika.github.io/files/Pallika_resume_November2019.pdf"> CV </a> 
