@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here's my <a href="files/Pallika_resume_November_2019.pdf"> CV </a> 
+Here's my <a href="files/Pallika_resume_November2019.pdf"> CV </a> 
