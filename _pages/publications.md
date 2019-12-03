@@ -9,19 +9,19 @@ author_profile: true
 	
 	<tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality,  &nbsp <a href="files/neurips19_peterson.pdf">  pdf </a> &nbsp BibTex   
+           Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality,  &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf">  pdf </a>  
+          </p></td>
+        </tr> 
+	 
+	 <tr>
+          <td class="bodyText" colspan="2"><p class="style1">
+           Tristan, J.-B., Panda, S., Mahmoudian, H., Kanani, P., Wick, M., “Using Bayes Factors to Control for Fairness A Case Study on Learning to Rank”, NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness and Privacy  &nbsp <a href="https://pallika.github.io/files/Fairness_ranking_control.pdf">  pdf </a>    
 		  </p></td>
          </tr> 
 	 
 	 <tr>
           <td class="bodyText" colspan="2"><p class="style1">
-           Tristan, J.-B., Panda, S., Mahmoudian, H., Kanani, P., Wick, M., “Using Bayes Factors to Control for Fairness A Case Study on Learning to Rank”, NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness and Privacy  &nbsp <a href="files/Fairness_ranking_control.pdf">  pdf </a> &nbsp BibTex   
-		  </p></td>
-         </tr> 
-	 
-	 <tr>
-          <td class="bodyText" colspan="2"><p class="style1">
-           Wick, M., Kanani, P., Pocock, A. “Minimally Constrained Multilingual Word Embeddings via Artificial Code Switching”, AAAI 2016, also in NIPS Workshop on Multi-Task and Transfer Learning 2016 &nbsp <a href="files/12464-56225-1-PB.pdf">  pdf </a> &nbsp BibTex   
+           Wick, M., Kanani, P., Pocock, A. “Minimally Constrained Multilingual Word Embeddings via Artificial Code Switching”, AAAI 2016, also in NIPS Workshop on Multi-Task and Transfer Learning 2016 &nbsp; <a href="https://pallika.github.io/files/12464-56225-1-PB.pdf">  pdf </a>   
 		  </p></td>
          </tr> 
 	 
