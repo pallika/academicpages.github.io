@@ -76,7 +76,7 @@ author_profile: true
         
         <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-         Kanani, P. and McCallum, A., "Efficient Strategies for Improving Partitioning-Based Author Coreference by Incorporating Web Pages as Graph Nodes," Proceedings of the Workshop on Information Integration on the Web (IIWEB 07), pp. 38-43. Also appeared as a poster in NESCAI 2007. &nbsp; <a href="https://pallika.github.io/files/aaai07_rbig.pdf"> pdf </a>  
+         Kanani, P. and McCallum, A., "Efficient Strategies for Improving Partitioning-Based Author Coreference by Incorporating Web Pages as Graph Nodes," Proceedings of the Workshop on Information Integration on the Web (IIWEB 07), pp. 38-43. Also appeared as a poster in NESCAI 2007. &nbsp; <a href="https://pallika.github.io/files/KananiWS15AAAI.pdf"> pdf </a>  
          </td>
          </tr>
          
