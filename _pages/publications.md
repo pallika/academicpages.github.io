@@ -51,50 +51,50 @@ author_profile: true
 		
 		<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-           Svore, K., Kanani, P., and Khan, N., "How good is a span of terms? Exploiting proximity to improve web retrieval", Proceedings of the 33rd ACM SIGIR'10, pp. 154-161. &nbsp; <a href="https://pallika.github.io/files/fp728-svore.pdf">  pdf </a> &nbsp; <a href="https://pallika.github.io/files/sigir2010.bib"> BibTex </a>  
+           Svore, K., Kanani, P., and Khan, N., "How good is a span of terms? Exploiting proximity to improve web retrieval", Proceedings of the 33rd ACM SIGIR'10, pp. 154-161. &nbsp; <a href="https://pallika.github.io/files/fp728-svore.pdf">  pdf </a> 
 		  </td>
          </tr> 
 		
 		<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-            Kanani, P., McCallum, A. and Hu, S., "Resource-bounded Information Extraction: Acquiring Missing Feature Values On Demand", Proceedings of the 14th PAKDD, Hyderabad, India, June 21-24, 2010. <b>(Winner of Best Student Paper Runner Up Award)</b>. Also appeared as a poster in NESCAI 2010. &nbsp; <a href="https://pallika.github.io/files/pakdd2010kanani.pdf">  pdf </a> &nbsp; <a href="https://pallika.github.io/files/pakdd2010kanani.bib"> BibTex </a>  
+            Kanani, P., McCallum, A. and Hu, S., "Resource-bounded Information Extraction: Acquiring Missing Feature Values On Demand", Proceedings of the 14th PAKDD, Hyderabad, India, June 21-24, 2010. <b>(Winner of Best Student Paper Runner Up Award)</b>. Also appeared as a poster in NESCAI 2010. &nbsp; <a href="https://pallika.github.io/files/pakdd2010kanani.pdf">  pdf   
 		  </td>
          </tr> 
 		 
         <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-         Kanani, P., McCallum, A., and Sitaraman, R., "Towards Theoretical Bounds for Resource-bounded Information Gathering for Correlation Clustering", UMass TechReport UM-CS-2009-027 <a href="https://pallika.github.io/files/synthesis_pallika.pdf">  pdf </a> &nbsp; <a href="https://pallika.github.io/files/tr09_rbig.bib"> BibTex </a>  
+         Kanani, P., McCallum, A., and Sitaraman, R., "Towards Theoretical Bounds for Resource-bounded Information Gathering for Correlation Clustering", UMass TechReport UM-CS-2009-027 <a href="https://pallika.github.io/files/synthesis_pallika.pdf">  pdf </a>   
           </td>
          </tr> 
         
      
          <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-          Kanani, P. and Melville, P., "Prediction-time Active Feature-value Acquisition for Customer Targeting", NIPS 2008 Workshop on Cost Sensitive Learning.  &nbsp; <a href="https://pallika.github.io/files/afa-nips08.pdf"> pdf </a>  &nbsp; <a href="https://pallika.github.io/files/afa-nips08.bib"> BibTex </a>
+          Kanani, P. and Melville, P., "Prediction-time Active Feature-value Acquisition for Customer Targeting", NIPS 2008 Workshop on Cost Sensitive Learning.  &nbsp; <a href="https://pallika.github.io/files/afa-nips08.pdf"> pdf </a> 
          </td>
          </tr> 
         
         <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-         Kanani, P. and McCallum, A., "Efficient Strategies for Improving Partitioning-Based Author Coreference by Incorporating Web Pages as Graph Nodes," Proceedings of the Workshop on Information Integration on the Web (IIWEB 07), pp. 38-43. Also appeared as a poster in NESCAI 2007. &nbsp; <a href="https://pallika.github.io/files/aaai07_rbig.pdf"> pdf </a>  &nbsp; <a href="https://pallika.github.io/files/aaai07_rbig.bib"> BibTex </a> 
+         Kanani, P. and McCallum, A., "Efficient Strategies for Improving Partitioning-Based Author Coreference by Incorporating Web Pages as Graph Nodes," Proceedings of the Workshop on Information Integration on the Web (IIWEB 07), pp. 38-43. Also appeared as a poster in NESCAI 2007. &nbsp; <a href="https://pallika.github.io/files/aaai07_rbig.pdf"> pdf </a>  
          </td>
          </tr>
          
          <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-          Culotta, A.,  Kanani, P.,  Hall, R.,  Wick, M. and McCallum, A., "Author Disambiguation using Error-driven Machine Learning with a Ranking Loss Function," a workshop at the Sixth International Workshop on Information Integration on the Web (IIWeb-07), Vancouver, Canada.  &nbsp; <a href="https://pallika.github.io/files/aaai07_author.pdf">  pdf </a> &nbsp; <a href="https://pallika.github.io/files/aaai07_rbig.bib"> BibTex </a>
+          Culotta, A.,  Kanani, P.,  Hall, R.,  Wick, M. and McCallum, A., "Author Disambiguation using Error-driven Machine Learning with a Ranking Loss Function," a workshop at the Sixth International Workshop on Information Integration on the Web (IIWeb-07), Vancouver, Canada.  &nbsp; <a href="https://pallika.github.io/files/aaai07_author.pdf">  pdf </a> 
          </td>
          </tr>
          
         <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-         Kanani, P. and McCallum, A., "Resource-bounded Information Gathering for Correlation Clustering," in the Proceedings of Computational Learning Theory 07, Open Problems Track, COLT 2007, LNAI 4539, pp. 625-627, 2007. &nbsp; <a href="files/colt07_rbig.pdf">  pdf </a> &nbsp; <a href="files/colt07_rbig.bib"> BibTex </a>  
+         Kanani, P. and McCallum, A., "Resource-bounded Information Gathering for Correlation Clustering," in the Proceedings of Computational Learning Theory 07, Open Problems Track, COLT 2007, LNAI 4539, pp. 625-627, 2007. &nbsp; <a href="files/colt07_rbig.pdf">  pdf </a>   
          </td>
          </tr>
          
          <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-           Kanani, P.,  McCallum, A. and Pal, C., "Improving Author Coreference by Resource-bounded Information Gathering from the Web," in the Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI 07), pp. 429-434, 2007.  &nbsp; <a href="files/ijcai07_rbig.pdf"> pdf </a> &nbsp; <a href="files/ijcai07_rbig.bib">  BibTex </a>   
+           Kanani, P.,  McCallum, A. and Pal, C., "Improving Author Coreference by Resource-bounded Information Gathering from the Web," in the Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI 07), pp. 429-434, 2007.  &nbsp; <a href="files/ijcai07_rbig.pdf"> pdf </a>    
          </td>
          </tr>
         
