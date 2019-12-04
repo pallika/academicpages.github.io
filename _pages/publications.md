@@ -88,7 +88,7 @@ author_profile: true
          
         <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-         Kanani, P. and McCallum, A., "Resource-bounded Information Gathering for Correlation Clustering," in the Proceedings of Computational Learning Theory 07, Open Problems Track, COLT 2007, LNAI 4539, pp. 625-627, 2007. &nbsp; <a href="files/colt07_rbig.pdf">  pdf </a>   
+         Kanani, P. and McCallum, A., "Resource-bounded Information Gathering for Correlation Clustering," in the Proceedings of Computational Learning Theory 07, Open Problems Track, COLT 2007, LNAI 4539, pp. 625-627, 2007. &nbsp; <a href="https://pallika.github.io/files/colt07_rbig.pdf">  pdf </a>   
          </td>
          </tr>
          
