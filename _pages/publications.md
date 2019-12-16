@@ -59,10 +59,10 @@ author_profile: true
 		  </td>
          </tr> 
 		
-		<tr style="border:none">
+	<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-            Kanani, P., McCallum, A. and Hu, S., "Resource-bounded Information Extraction: Acquiring Missing Feature Values On Demand", Proceedings of the 14th PAKDD, Hyderabad, India, June 21-24, 2010. <b>(Winner of Best Student Paper Runner Up Award)</b>. Also appeared as a poster in NESCAI 2010. &nbsp; <a href="https://pallika.github.io/files/pakdd2010kanani.pdf">  pdf   
-		  </td>
+            Kanani, P., McCallum, A. and Hu, S., "Resource-bounded Information Extraction: Acquiring Missing Feature Values On Demand", Proceedings of the 14th PAKDD, Hyderabad, India, June 21-24, 2010. <b>(Winner of Best Student Paper Runner Up Award)</b>. Also appeared as a poster in NESCAI 2010. &nbsp; <a href="https://pallika.github.io/files/pakdd2010kanani.pdf">  pdf </a>  
+	   </td>
          </tr> 
 		 
         <tr style="border:none">
