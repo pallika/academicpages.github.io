@@ -49,7 +49,7 @@ author_profile: true
 		 
 		<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-           Kanani, P. and McCallum, A. "Learning to Select Actions for Resource-bounded Information Extraction". UMass TechReport UM-CS-2011-042, 2011. &nbsp; <a href="https://pallika.github.io/files/Kanani2011TechResport.pdf">  pdf </a>
+           Kanani, P. and McCallum, A. "Learning to Select Actions for Resource-bounded Information Extraction". UMass TechReport UM-CS-2011-042, 2011. &nbsp; <a href="https://pallika.github.io/files/Kanani2011TechReport.pdf">  pdf </a>
 		  </td>
          </tr> 
 		
