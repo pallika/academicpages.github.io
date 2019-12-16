@@ -8,8 +8,7 @@ author_profile: true
 	<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
            Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  <b> (Winner of Distinguished Paper Award) </b> &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf"> pdf </a> 
-		 	  
-        </td>
+	</td>
         </tr> 
 	 
 	<tr style="border:none">
@@ -17,6 +16,13 @@ author_profile: true
            Tristan, J.-B., Panda, S., Mahmoudian, H., Kanani, P., Wick, M., “Using Bayes Factors to Control for Fairness A Case Study on Learning to Rank”, NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness and Privacy  &nbsp; <a href="https://pallika.github.io/files/Fairness_ranking_control.pdf">  pdf </a>    
 	  </td>
          </tr> 
+	 
+	  <tr style="border:none">
+          <td class="bodyText" colspan="2" style="border:none"> 
+           Deitz et al. "Report on the First HIPstIR Workshop on the
+Future of Information Retrieval", SIGIR </b> &nbsp; <a href="https://pallika.github.io/files/p062.pdf"> pdf </a> 
+	</td>
+        </tr> 
 	 
 	 <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
@@ -114,6 +120,6 @@ author_profile: true
            Young, J.W., Biu, O., Pethkongkathon, J., Kanani, P., & Adolph, K.E., "Continuity and discontinuity in motor skill acquisition". International Society for Developmental Psychobiology, Orlando, FL, 2002
 		 </td>
          </tr> 
- </table>
+
 
 
