@@ -19,7 +19,7 @@ author_profile: true
 	 
 	  <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-           Deitz et al. "Report on the First HIPstIR Workshop on the Future of Information Retrieval", SIGIR </b> &nbsp; <a href="https://pallika.github.io/files/p062.pdf"> pdf </a> 
+           Deitz et al. "Report on the First HIPstIR Workshop on the Future of Information Retrieval", SIGIR &nbsp; <a href="https://pallika.github.io/files/p062.pdf"> pdf </a> 
 	</td>
         </tr> 
 	 
@@ -119,6 +119,6 @@ author_profile: true
            Young, J.W., Biu, O., Pethkongkathon, J., Kanani, P., & Adolph, K.E., "Continuity and discontinuity in motor skill acquisition". International Society for Developmental Psychobiology, Orlando, FL, 2002
 		 </td>
          </tr> 
-
+</table>
 
 
