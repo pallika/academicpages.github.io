@@ -111,7 +111,7 @@ author_profile: true
          
          <tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-           Kanani, P.,  McCallum, A. and Pal, C., <b>"Improving Author Coreference by Resource-bounded Information Gathering from the Web"</b> in the Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI 07), pp. 429-434, 2007.  &nbsp; <a href="https://pallika.github.io/files/ijcai07_rbig.pdf"> pdf </a>    
+           Kanani, P.,  McCallum, A. and Pal, C., <b>"Improving Author Coreference by Resource-bounded Information Gathering from the Web"</b> in the Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI 07), pp. 429-434, 2007.  &nbsp; <a href="https://pallika.github.io/files/rbig.pdf"> pdf </a>    
          </td>
          </tr>
         
