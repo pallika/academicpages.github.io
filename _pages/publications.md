@@ -20,7 +20,7 @@ author_profile: true
 	
 	<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-           Peterson, D., Kanani, P., Marathe, V. J. <b>"Private Federated Learning with Domain Adaptation"</b>, NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  <p style="color:red"> <b> (Winner of Distinguished Paper Award) </b> </p> &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf"> pdf </a> 
+           Peterson, D., Kanani, P., Marathe, V. J. <b>"Private Federated Learning with Domain Adaptation"</b>, NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  <font color="red"> <b> (Winner of Distinguished Paper Award) </b> </font> &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf"> pdf </a> 
 	</td>
         </tr> 
 	 
@@ -74,7 +74,7 @@ author_profile: true
 		
 	<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
-            Kanani, P., McCallum, A. and Hu, S., <b>"Resource-bounded Information Extraction: Acquiring Missing Feature Values On Demand"</b>, Proceedings of the 14th PAKDD, Hyderabad, India, June 21-24, 2010. <p style="color:red">  <b>(Winner of Best Student Paper Runner Up Award)</b> </p>. Also appeared as a poster in NESCAI 2010. &nbsp; <a href="https://pallika.github.io/files/pakdd2010kanani.pdf">  pdf </a>  
+            Kanani, P., McCallum, A. and Hu, S., <b>"Resource-bounded Information Extraction: Acquiring Missing Feature Values On Demand"</b>, Proceedings of the 14th PAKDD, Hyderabad, India, June 21-24, 2010. <font color="red">  <b>(Winner of Best Student Paper Runner Up Award)</b> </font>. Also appeared as a poster in NESCAI 2010. &nbsp; <a href="https://pallika.github.io/files/pakdd2010kanani.pdf">  pdf </a>  
 	   </td>
          </tr> 
 		 
