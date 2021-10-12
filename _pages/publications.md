@@ -5,6 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 <table style="border-collapse: collapse; border: none">
+	
+	<tr style="border:none">
+          <td class="bodyText" colspan="2" style="border:none"> 
+           Marathe, V. J., Kanani, P. "Subject Granular Differential Privacy in Federated Learning", CCS 2021 Workshop on Privacy Preserving Machine Learning (PPML) &nbsp; <a href="https://pallika.github.io/files/ppml-2021-subject-level.pdf"> pdf </a> 
+	</td>
+        </tr> 
+	
+	<tr style="border:none">
+          <td class="bodyText" colspan="2" style="border:none"> 
+           Kanani, P., Marathe, V. J., Peterson, D., Harpaz, R., Bright, S. "Private Cross-Silo Federated Learning for Extracting Vaccine Adverse Event Mentions", ECML-PKDD 2021 Workshop on Machine Learning for Pharma and Healthcare Applications &nbsp; <a href="https://pallika.github.io/files/PharML21_Kanani_etal_camera_ready.pdf"> pdf </a>. Also appeared as an extended abstract in ICLR 2021 Workshop on AI for Public Health <a href="https://pallika.github.io/files/ICLR-AIPH21-CamaraReady.pdf"> pdf </a> <a href="https://pallika.github.io/files/CrossSiloFederatedLearning.pdf"> poster </a> 
+	</td>
+	</tr>
+	
 	<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
            Peterson, D., Kanani, P., Marathe, V. J. "Private Federated Learning with Domain Adaptation", NeurIPS 2019 Workshop on Federated Learning for Data Privacy and Confidentiality  <b> (Winner of Distinguished Paper Award) </b> &nbsp; <a href="https://pallika.github.io/files/neurips19_peterson.pdf"> pdf </a> 
