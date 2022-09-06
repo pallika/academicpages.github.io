@@ -8,6 +8,12 @@ author_profile: true
 	
 	<tr style="border:none">
           <td class="bodyText" colspan="2" style="border:none"> 
+           Suri, A., Kanani, P., Marathe, V. J., Peterson, D. <b>"Subject Membership Inference Attacks in Federated Learning"</b>, Under Review &nbsp; <a href="https://arxiv.org/abs/2206.03317"> arxiv </a> 
+	</td>
+        </tr> 
+	
+	<tr style="border:none">
+          <td class="bodyText" colspan="2" style="border:none"> 
            Marathe, V. J., Kanani, P. <b>"Subject Granular Differential Privacy in Federated Learning"</b>, CCS 2021 Workshop on Privacy Preserving Machine Learning (PPML) &nbsp; <a href="https://pallika.github.io/files/ppml-2021-subject-level.pdf"> pdf </a> 
 	</td>
         </tr> 
